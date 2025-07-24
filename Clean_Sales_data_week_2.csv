@@ -1,0 +1,20 @@
+Order_ID,Customer_Name,Email,Phone,Product_Category,Order_Date,Revenue,Discount (%)
+101,John Doe,john@email.com,9876543210,Electronics,12/31/2023,"$1,200.00 ",10
+102,Alice Smith,not_provided@gmail.com,9898989898,Clothing,1/5/2024,$500.00 ,0
+103,Bob Miller,bob@email.com,0,Electronics,12/1/2024,"$3,000.00 ",20
+105,David White,david@email.com,9123456789,Furniture,2/15/2024,"$2,500.00 ",15
+106,Emma Brown,emma@email.com,9234567890,Clothing,8/3/2024,$700.00 ,5
+107,Chris Green,not_provided@gmail.com,9345678901,Furniture,4/10/2024,"$1,800.00 ",25
+108,Alice Smith,alice@email.com,0,Clothing,3/8/2024,$500.00 ,0
+109,Liam Martinez,Liam@email.com,9445278805,Clothing,8/4/2024,$800.00 ,5
+110,Emily Tanaka,Emily@gmail.com,9214865896,Furniture,2/18/2024,"$3,000.00 ",15
+111,Grace Okafor,grace@email.com,0,Electronics,1/12/2024,"$3,000.00 ",20
+112,Jennifer Blake,jennifer@email.com,9876543210,Electronics,12/31/2023,"$1,200.00 ",10
+113,Sarah Thompson,sarah@email.com,9123456789,Furniture,2/15/2024,"$2,500.00 ",15
+114,Jordan Kim,jorden@email.com,9234567890,Clothing,3/8/2024,$700.00 ,5
+115,Jorden Green,not_provided@gmail.com,9345678901,Furniture,10/4/2024,"$1,800.00 ",25
+116,Hannah Lee,hannah@email.com,9123984756,Electronics,3/22/2024,"$2,100.00 ",18
+117,Marcus Knight,marcus@email.com,9012345678,Clothing,5/19/2024,$650.00 ,7
+118,Olivia Stone,olivia@email.com,0,Furniture,9/1/2024,"$3,200.00 ",12
+119,Ethan Brooks,ethan@email.com,9223344556,Electronics,6/15/2024,"$1,800.00 ",10
+120,Sophia Turner,sophia@email.com,9887766554,Furniture,11/20/2023,"$2,700.00 ",20
